@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-This repository contains the notebook, SQL queries, and requirements I used to analyse the **Integrated Brazilian Flight Dataset (BFD)**—14.7 million flight legs from 2000-2019, extended to 2023 with the latest ANAC on-time-performance releases.
+This repository contains the notebook, SQL queries, and requirements I used to analyse the **Integrated Brazilian Flight Dataset (BFD)**—14.7 million flight legs from 2000-2023 with the latest ANAC on-time-performance releases.
 
 <p align="center">
   <img src="brazil_flights.jpg" width="600" alt="Example chart: flights per year">
